@@ -16,8 +16,7 @@ The compiler which we are using is Visual Studio Code.
 
 # Purpose of this project
 
-It can be used for transport systems. 
-![image](https://user-images.githubusercontent.com/45159343/136650505-4df27f7b-c8ee-4793-8768-2cc610f80c43.png)
+It can be used for transport system sych as bus, train, metro, taxi etc
 
 
 
