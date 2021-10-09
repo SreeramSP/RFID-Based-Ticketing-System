@@ -18,5 +18,9 @@ The compiler which we are using is Visual Studio Code.
 
 It can be used for transport system sych as bus, train, metro, taxi etc
 
+# Components Required
 
+Arduino Uno
+LED 
+USB Cable
 
