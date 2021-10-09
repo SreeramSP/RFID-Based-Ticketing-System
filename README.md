@@ -20,7 +20,7 @@ It can be used for transport system sych as bus, train, metro, taxi etc
 
 # Components Required
 
-Arduino Uno
-LED 
+Arduino Uno\n
+LED \n
 USB Cable
 
