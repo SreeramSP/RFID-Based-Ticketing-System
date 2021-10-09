@@ -11,5 +11,8 @@ D. Empty Card
 Which will be executed by pressing the keys on the keypad.
 Microcontroller used for the programming is the ARDUINO UNO.
 
-We are using C++ as our primary language for this project. 
+We are using C++ as our primary language for this project.
+The compiler which we are using is Visual Studio Code.
+
+
 
