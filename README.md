@@ -16,11 +16,14 @@ The compiler which we are using is Visual Studio Code.
 
 # Purpose of this project
 
-It can be used for transport system sych as bus, train, metro, taxi etc
+It can be used for transport system sych as bus, train, metro, taxi etc. Customers can pay their travelling fares using contactless payment. This will help customers to pay their exact fare without any worries. This system is useful during this pandemic
 
 # Components Required
 
-Arduino Uno
-LED 
-USB Cable
-
+1. Arduino Uno
+2. LED Light
+3. USB Cable
+4. Display
+5. Arduino IDE
+6. Jumper Wires
+7. Bread Board
