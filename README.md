@@ -6,7 +6,7 @@ RFID Reader will scan the card with a particular Card UID, which is unique to ev
 A. Recharge
 B. Pay ticket price
 C. Balance
-D. Empty Card
+D. Empty Card 
 
 Which will be executed by pressing the keys on the keypad.
 Microcontroller used for the programming is the ARDUINO UNO.
