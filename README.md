@@ -23,7 +23,9 @@ It can be used for transport system sych as bus, train, metro, taxi etc. Custome
 1. Arduino Uno
 2. LED Light
 3. USB Cable
-4. Display
+4. LED Display
 5. Arduino IDE
 6. Jumper Wires
 7. Bread Board
+8. GPS Module
+9. Keypad
